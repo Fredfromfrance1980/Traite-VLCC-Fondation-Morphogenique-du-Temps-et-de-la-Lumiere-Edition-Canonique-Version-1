@@ -1,0 +1,2 @@
+# Traite-VLCC-Fondation-Morphogenique-du-Temps-et-de-la-Lumiere-Edition-Canonique-Version-1
+Ce traité présente le VLCC, une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos.
