@@ -1,5 +1,5 @@
 # Traite-VLCC-Fondation-Morphogenique-du-Temps-et-de-la-Lumiere-Edition-Canonique-Version-1
-Ce traité présente le VLCC (Variable Lagrangian of Cosmic Chronotropy), une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos
+Ce traité présente le VLCC (Variable Lagrangian of Cosmic Chronotropy), une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos.
 📄 Version Française - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17946156
 
 ---
@@ -12,16 +12,16 @@ This treatise presents the VLCC (Variable Lagrangian of Cosmic Chronotropy), a t
 注：本中文版本为自动翻译版本，其中“VLCC”应理解为“Variable Lagrangian of Cosmic Chronotropy”的缩写，而非任何工业含义。
 
 本论著介绍了 VLCC（Variable Lagrangian of Cosmic Chronotropy，可变宇宙时间向性拉格朗日量），这是一种以时间作为现实第一性实体的本体论为基础的理论宇宙学。该论著构建了一个统一的形态发生学框架，引入了规范拉格朗日量 V9，并提出了一种对引力、星系晕以及宇宙极端状态的时间向性（chronotropic）诠释。
-📄简体中文版 - DOI (Zenodo) :https://doi.org/10.5281/zenodo.17964096
+📄简体中文版 - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17964096
 
 ---
 # Трактат — VLCC — Морфогенетические основы времени и света — Каноническое издание — Версия 1
 
-Примечание: Данная китайская версия является результатом автоматического перевода. Акроним «VLCC» следует понимать как сокращение от Variable Lagrangian of Cosmic Chronotropy (переменный лагранжиан космической хронотропии) и он не имеет никакого промышленного значения.
+Примечание: Данная русская версия является результатом автоматического перевода. Акроним «VLCC» следует понимать как сокращение от Variable Lagrangian of Cosmic Chronotropy (переменный лагранжиан космической хронотропии) и он не имеет никакого промышленного значения.
 
 Настоящий трактат представляет VLCC (Variable Lagrangian of Cosmic Chronotropy) — теоретическую космологию, основанную на онтологическом предположении, согласно которому время является первичной субстанцией реальности. В работе разрабатывается единый морфогенетический каркас, вводится канонический лагранжиан V9, а также предлагается хронотропная интерпретация гравитации, галактических гало и экстремальных режимов космоса.
 
-Русская версия — DOI (Zenodo):https://doi.org/10.5281/zenodo.17965521
+Русская версия — DOI (Zenodo) : https://doi.org/10.5281/zenodo.17965521
 
 ## Présentation:
 
