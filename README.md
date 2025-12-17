@@ -1,11 +1,17 @@
 # Traite-VLCC-Fondation-Morphogenique-du-Temps-et-de-la-Lumiere-Edition-Canonique-Version-1
-Ce traité présente le VLCC (Variable Lagrangian of Cosmic Chronotropy), une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos.
+Ce traité présente le VLCC (Variable Lagrangian of Cosmic Chronotropy), une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos
 
-📄 DOI (Zenodo) : https://doi.org/10.5281/zenodo.17946156
+📄 Version Française - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17946156
 
-## Présentation
+# Treatise – VLCC – Morphogenetic Foundation of Time and Light – Canonical Edition – Version 1
+This treatise presents the VLCC (Variable Lagrangian of Cosmic Chronotropy), a theoretical cosmology grounded in the ontology of time as the primary substance of reality. It develops a unified morphogenetic framework, introduces the canonical V9 Lagrangian, and proposes a chronotropic interpretation of gravity, galactic halos, and extreme regimes of the cosmos.
 
-Ce dépôt contient le traité VLCC dans sa version 1. Il présente une cosmologie théorique fondée sur une hypothèse ontologique centrale : le temps constitue la substance première du réel, et non un simple paramètre ou une dimension secondaire.
+📄 English version - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17961226
+
+## Présentation:
+
+Ce dépôt rassemble les documents du traité VLCC (version 1), au format PDF, dans sa version originale (français) et sa version anglaise.
+Il présente une cosmologie théorique fondée sur une hypothèse ontologique centrale : le temps constitue la substance première du réel, et non un simple paramètre ou une dimension secondaire.
 La Partie I établit cette ontologie du temps en introduisant la notion de cohérence temporelle, à partir de laquelle émergent la lumière, l’espace et la phénoménalité cosmique. La lumière y est interprétée comme une manifestation du régime temporel local, et non comme une entité électromagnétique fondamentale.
 
 La Partie II pose le socle mathématique du modèle VLCC (Variable Lagrangian of Cosmic Chronotropy). Le temps y est formalisé comme un champ unique à structure interne, régi par des lois morphogéniques fondamentales. Ce champ admet trois régimes fonctionnels — t₁ (mémoire), t₂ (présent phénoménal) et t₁′ (tension évolutive) — qui ne constituent pas des champs distincts, mais des modes structurels complémentaires d’un même substrat temporel. Cette structuration repose sur une tri-phase temporelle {τ, σ, Δt}, sur des gradients morphogéniques, et sur une équation-cadre ouverte, faisant du VLCC un système extensible de lois compatibles.
