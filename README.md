@@ -1,16 +1,23 @@
 # Traite-VLCC-Fondation-Morphogenique-du-Temps-et-de-la-Lumiere-Edition-Canonique-Version-1
 Ce traité présente le VLCC (Variable Lagrangian of Cosmic Chronotropy), une cosmologie théorique fondée sur l’ontologie du temps comme substance première du réel. Il développe un cadre morphogénique unifié, introduit le Lagrangien canonique V9 et propose une lecture chronotropique de la gravité, des halos galactiques et des régimes extrêmes du cosmos
-
 📄 Version Française - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17946156
 
+---
 # Treatise – VLCC – Morphogenetic Foundation of Time and Light – Canonical Edition – Version 1
 This treatise presents the VLCC (Variable Lagrangian of Cosmic Chronotropy), a theoretical cosmology grounded in the ontology of time as the primary substance of reality. It develops a unified morphogenetic framework, introduces the canonical V9 Lagrangian, and proposes a chronotropic interpretation of gravity, galactic halos, and extreme regimes of the cosmos.
-
 📄 English version - DOI (Zenodo) : https://doi.org/10.5281/zenodo.17961226
+
+---
+论著 —— VLCC —— 时间与光的形态发生学基础 —— 规范版 —— 第 1 版
+
+本论著介绍了 VLCC（Variable Lagrangian of Cosmic Chronotropy，可变宇宙时间向性拉格朗日量），这是一种以时间作为现实第一性实体的本体论为基础的理论宇宙学。该论著构建了一个统一的形态发生学框架，引入了规范拉格朗日量 V9，并提出了一种对引力、星系晕以及宇宙极端状态的时间向性（chronotropic）诠释。
+📄简体中文版 - DOI (Zenodo) :https://doi.org/10.5281/zenodo.17964096
+
+---
 
 ## Présentation:
 
-Ce dépôt rassemble les documents du traité VLCC (version 1), au format PDF, dans sa version originale (français) et sa version anglaise.
+Ce dépôt rassemble les documents du traité VLCC (version 1), au format PDF, dans sa version originale (français) et ses versions Anglaise et Chinoise.
 Il présente une cosmologie théorique fondée sur une hypothèse ontologique centrale : le temps constitue la substance première du réel, et non un simple paramètre ou une dimension secondaire.
 La Partie I établit cette ontologie du temps en introduisant la notion de cohérence temporelle, à partir de laquelle émergent la lumière, l’espace et la phénoménalité cosmique. La lumière y est interprétée comme une manifestation du régime temporel local, et non comme une entité électromagnétique fondamentale.
 
