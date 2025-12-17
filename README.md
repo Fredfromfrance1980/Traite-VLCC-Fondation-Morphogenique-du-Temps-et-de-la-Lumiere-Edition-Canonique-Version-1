@@ -9,6 +9,7 @@ This treatise presents the VLCC (Variable Lagrangian of Cosmic Chronotropy), a t
 
 ---
 论著 —— VLCC —— 时间与光的形态发生学基础 —— 规范版 —— 第 1 版
+注：本中文版本为自动翻译版本，其中“VLCC”应理解为“Variable Lagrangian of Cosmic Chronotropy”的缩写，而非任何工业含义。
 
 本论著介绍了 VLCC（Variable Lagrangian of Cosmic Chronotropy，可变宇宙时间向性拉格朗日量），这是一种以时间作为现实第一性实体的本体论为基础的理论宇宙学。该论著构建了一个统一的形态发生学框架，引入了规范拉格朗日量 V9，并提出了一种对引力、星系晕以及宇宙极端状态的时间向性（chronotropic）诠释。
 📄简体中文版 - DOI (Zenodo) :https://doi.org/10.5281/zenodo.17964096
