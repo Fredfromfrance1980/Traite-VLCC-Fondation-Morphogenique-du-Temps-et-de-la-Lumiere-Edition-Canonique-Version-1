@@ -25,7 +25,7 @@ This treatise presents the VLCC (Variable Lagrangian of Cosmic Chronotropy), a t
 
 ## Présentation:
 
-Ce dépôt rassemble les documents du traité VLCC (version 1), au format PDF, dans sa version originale (français) et ses versions Anglaise et Chinoise.
+Ce dépôt rassemble les documents du traité VLCC (version 1), au format PDF, dans sa version originale (français) et ses versions Anglaise, Chinoise et Russe. Les versions traduites sont susceptibles de contenir des imprécisions ou erreurs de traduction, en particulier concernant certains termes techniques et acronymes propres au cadre théorique présenté.
 Il présente une cosmologie théorique fondée sur une hypothèse ontologique centrale : le temps constitue la substance première du réel, et non un simple paramètre ou une dimension secondaire.
 La Partie I établit cette ontologie du temps en introduisant la notion de cohérence temporelle, à partir de laquelle émergent la lumière, l’espace et la phénoménalité cosmique. La lumière y est interprétée comme une manifestation du régime temporel local, et non comme une entité électromagnétique fondamentale.
 
